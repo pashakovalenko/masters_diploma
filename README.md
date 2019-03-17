@@ -6,6 +6,10 @@
 
 * * *
 
+**17.03.19**. Написал разделы про метрики в задаче ранжирования и BPR.
+
+* * *
+
 **03.03.19**. Подал [тезисы на ломоносова](https://github.com/pashakovalenko/masters_diploma/blob/master/lomonosov/thesis.pdf).
 
 Успел провести эксперименты с ALS и BPR на ML-1m, ML-20m и Million Playlists Dataset.
